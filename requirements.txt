@@ -1,0 +1,5 @@
+matplotlib==3.2.2
+gym==0.17.2
+torch==1.6.0
+numpy==1.18.5
+pyglet==1.5.0
