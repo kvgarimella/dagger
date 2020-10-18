@@ -4,7 +4,10 @@ This repository contains the code for an imitation learning model and the DAgger
 
 ![](https://github.com/kvgarimella/dagger/blob/main/media/dagger.gif)
 
-Check out [this paper](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf) to learn more about DAgger.
+DAgger helps the imitation learning agent learn correct actions when following sub-optimal trajectories:
+![](https://github.com/kvgarimella/dagger/blob/main/media/self-correction.gif)
+
+Check out [this paper](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf) to learn more about DAgger. 
 
 ### Installation
 Clone this repository:
@@ -20,3 +23,5 @@ Run DAgger and train your model:
 ```
 python dagger.py
 ```
+
+
