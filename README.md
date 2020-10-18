@@ -2,7 +2,7 @@
 
 This repository contains the code for an imitation learning model and the DAgger algorithm for the CarRacing-v0 Gym Environment. This was part of a homework assignment for the Deep Reinforcement Learning course at NYU Courant taught by [Lerrel Pinto](https://cs.nyu.edu/~lp91/).
 
-![](name-of-giphy.gif)
+![](https://github.com/kvgarimella/dagger/blob/main/media/dagger.gif)
 
 Check out [this paper](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf) to learn more about DAgger.
 
